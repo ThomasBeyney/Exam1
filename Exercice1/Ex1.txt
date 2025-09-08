@@ -1,0 +1,6 @@
+Exercice 1:
+
+Enoncé :
+Ecrire un code en go, qui a pour but de vérifier si le premier charactère
+d'une chaine de charachtère est identique au dernier charactère de cette
+même chaine.
