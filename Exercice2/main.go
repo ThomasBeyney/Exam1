@@ -11,3 +11,5 @@ func main(str string){
 		fmt.Print(j)
 	}
 }
+
+//t'embète pas sa marche pas :/
