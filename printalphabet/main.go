@@ -1,8 +1,9 @@
 package main
 
-func printalphabet() {
+import "fmt"
+
+func printalphabet(x string) {
 	for x := "a"; x <= "z" ; x++ {
-		return x
+		fmt.Println(x)
 	}
-	return \n
 }
